@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FitInsight AI — Fitness Analytics Desktop Application
 
 FitInsight AI is a desktop application for recording daily fitness activity, viewing trends, receiving rule-based recommendations, and demonstrating a Random Forest regression workflow for weight estimation.
@@ -133,3 +134,7 @@ The application stores profile and check-in information locally in SQLite. Keep 
 - [ ] Confirm Dashboard and Analytics refresh.
 - [ ] Open ML Prediction and generate an estimate.
 - [ ] Keep the synthetic-data limitation in the project report/presentation.
+=======
+# FitInsight-AI
+AI-powered fitness analytics and weight prediction desktop application using Python, PySide6, SQLite and Machine Learning.
+>>>>>>> 84da2526307df0a8d0198dda6ae73ee52550bcc0
